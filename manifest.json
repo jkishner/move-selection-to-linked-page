@@ -1,0 +1,10 @@
+{
+    "id": "move-selection-to-linked-page",
+    "name": "Move Selection to Linked Page",
+    "version": "1.0.0",
+    "minAppVersion": "0.13.0",
+    "description": "Moves selected text from a daily note to the referenced page, prepending it with the date.",
+    "author": "Your Name",
+    "authorUrl": "https://yourwebsite.com",
+    "isDesktopOnly": false
+}
