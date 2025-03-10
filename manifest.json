@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "minAppVersion": "0.13.0",
     "description": "Moves selected text from a daily note to the referenced page, prepending it with the date.",
-    "author": "Your Name",
-    "authorUrl": "https://yourwebsite.com",
+    "author": "Jeffrey Kishner",
+    "authorUrl": "https://github.com/jkishner/move-selection-to-linked-page",
     "isDesktopOnly": false
 }
